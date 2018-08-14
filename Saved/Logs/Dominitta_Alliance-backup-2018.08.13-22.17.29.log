@@ -1,0 +1,1362 @@
+﻿Log file open, 08/13/18 14:08:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Dominitta_Alliance
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.387631
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.13-17.08.18:522][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-17.08.18:522][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.13-17.08.18:536][  0]LogHAL: Display: Platform has ~ 16 GB [17105432576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.13-17.08.18:536][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.13-17.08.18:536][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.13-17.08.18:536][  0]LogInit: Computer: DESKTOP-07D56CP
+[2018.08.13-17.08.18:536][  0]LogInit: User: pablocabezasg
+[2018.08.13-17.08.18:536][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.08.13-17.08.18:536][  0]LogInit: High frequency timer resolution =3.609385 MHz
+[2018.08.13-17.08.18:536][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.13-17.08.18:536][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.13-17.08.18:536][  0]LogMemory: Process Physical Memory: 100.92 MB used, 100.92 MB peak
+[2018.08.13-17.08.18:536][  0]LogMemory: Process Virtual Memory: 85.92 MB used, 85.92 MB peak
+[2018.08.13-17.08.18:536][  0]LogMemory: Physical Memory: 5798.86 MB used,  10514.16 MB free, 16313.01 MB total
+[2018.08.13-17.08.18:536][  0]LogMemory: Virtual Memory: 4651.26 MB used,  10514.16 MB free, 134217728.00 MB total
+[2018.08.13-17.08.18:549][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.08.13-17.08.18:549][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.08.13-17.08.18:824][  0]LogStreaming: Display: Took  0.275s to InitEngineTextLocalization.
+[2018.08.13-17.08.18:824][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.13-17.08.18:848][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.13-17.08.18:848][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.13-17.08.18:977][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.13-17.08.18:977][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.13-17.08.19:032][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2018.08.13-17.08.19:032][  0]LogD3D11RHI:       8080/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.13-17.08.19:034][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.13-17.08.19:034][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.13-17.08.19:034][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.13-17.08.19:038][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.13-17.08.19:039][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.13-17.08.19:039][  0]LogWindows: EnumDisplayDevices:
+[2018.08.13-17.08.19:039][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2018.08.13-17.08.19:039][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2018.08.13-17.08.19:039][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2018.08.13-17.08.19:039][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2018.08.13-17.08.19:039][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.08.13-17.08.19:039][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2018.08.13-17.08.19:039][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.08.13-17.08.19:039][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.08.13-17.08.19:039][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2018.08.13-17.08.19:071][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.13-17.08.19:087][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.13-17.08.19:135][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Intermediate/Shaders/WorkingDirectory/4716/).
+[2018.08.13-17.08.19:135][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pablo.cabezasg/AppData/Local/Temp/UnrealShaderWorkingDir/AFF9047741354B460EA607AC8891DD92/'.
+[2018.08.13-17.08.19:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.13-17.08.19:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.13-17.08.19:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.13-17.08.19:360][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.13-17.08.19:369][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.13-17.08.19:378][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.13-17.08.19:388][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.13-17.08.19:397][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.13-17.08.19:402][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:469][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-17.08.19:470][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.13-17.08.19:526][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.13-17.08.19:526][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.13-17.08.19:551][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.13-17.08.19:551][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.13-17.08.19:562][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.13-17.08.19:572][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.13-17.08.19:582][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.13-17.08.19:593][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.13-17.08.19:604][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.13-17.08.19:604][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.13-17.08.19:649][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.13-17.08.19:650][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.13-17.08.19:650][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.13-17.08.20:230][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.13-17.08.20:276][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/pablo.cabezasg/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.13-17.08.20:277][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pablo.cabezasg/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.13-17.08.20:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.13-17.08.20:277][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.13-17.08.20:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.13-17.08.20:277][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.13-17.08.20:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.13-17.08.20:298][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pablo.cabezasg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.13-17.08.20:298][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.13-17.08.20:298][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.13-17.08.20:312][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.13-17.08.20:313][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.13-17.08.20:313][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.13-17.08.20:371][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.08.13-17.08.20:607][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-17.08.20:711][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.13-17.08.20:713][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.13-17.08.20:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.13-17.08.20:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.13-17.08.20:713][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.13-17.08.20:722][  0]LogNetVersion: Dominitta_Alliance 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 649992285)
+[2018.08.13-17.08.21:083][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.047089 seconds
+[2018.08.13-17.08.21:088][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.13-17.08.21:088][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.13-17.08.21:088][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.13-17.08.21:694][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.13-17.08.21:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.13-17.08.21:820][  0]SourceControl: Source control is disabled
+[2018.08.13-17.08.21:820][  0]SourceControl: Source control is disabled
+[2018.08.13-17.08.21:821][  0]SourceControl: Source control is disabled
+[2018.08.13-17.08.21:822][  0]SourceControl: Source control is disabled
+[2018.08.13-17.08.21:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.13-17.08.22:011][  0]LogOcInput: OculusInput pre-init called
+[2018.08.13-17.08.22:058][  0]LogEngine: Initializing Engine...
+[2018.08.13-17.08.22:059][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.13-17.08.22:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.13-17.08.22:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-17.08.22:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.13-17.08.22:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-17.08.22:239][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.13-17.08.22:252][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.13-17.08.22:266][  0]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-17.08.22:283][  0]LogInit: FAudioDevice initialized.
+[2018.08.13-17.08.22:283][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.13-17.08.22:354][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/pablo.cabezasg/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.13-17.08.22:362][  0]LogInit: Texture streaming: Enabled
+[2018.08.13-17.08.22:370][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.13-17.08.22:377][  0]LogInit: Transaction tracking system initialized
+[2018.08.13-17.08.22:386][  0]BlueprintLog: New page: Editor Load
+[2018.08.13-17.08.22:420][  0]LocalizationService: Localization service is disabled
+[2018.08.13-17.08.22:602][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.13-17.08.22:602][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.13-17.08.22:602][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.13-17.08.22:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.13-17.08.22:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-17.08.22:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.13-17.08.22:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-17.08.22:681][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/' took 0.02s
+[2018.08.13-17.08.22:681][  0]SourceControl: Source control is disabled
+[2018.08.13-17.08.22:681][  0]Cmd: MAP LOAD FILE="C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.13-17.08.22:686][  0]LightingResults: New page: Lighting Build
+[2018.08.13-17.08.22:688][  0]MapCheck: New page: Map Check
+[2018.08.13-17.08.22:688][  0]LightingResults: New page: Lighting Build
+[2018.08.13-17.08.23:256][  0]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{24a1dfe2-a616-45f5-be9d-0a824301fccf} was removed. Shutting down audio device.
+[2018.08.13-17.08.23:474][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.13-17.08.23:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.13-17.08.23:517][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.13-17.08.23:550][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.248ms to complete.
+[2018.08.13-17.08.23:550][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.869
+[2018.08.13-17.08.23:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-17.08.23:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-17.08.23:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-17.08.23:733][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-17.08.23:749][  0]LogCollectionManager: Loaded 0 collections in 0.000597 seconds
+[2018.08.13-17.08.23:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Collections/' took 0.01s
+[2018.08.13-17.08.23:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Developers/pablocabezasg/Collections/' took 0.01s
+[2018.08.13-17.08.23:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Collections/' took 0.01s
+[2018.08.13-17.08.23:788][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.13-17.08.23:796][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2572 classes and 603 folders.
+[2018.08.13-17.08.23:799][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.13-17.08.24:874][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.13-17.08.24:899][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.13-17.08.25:003][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.13-17.08.25:005][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.13-17.08.25:032][  0]LogSlate: Took 0.022763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.13-17.08.25:214][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.13-17.08.25:319][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.13-17.08.25:319][  0]LogLoad: (Engine Initialization) Total time: 8.14 seconds
+[2018.08.13-17.08.25:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.13-17.08.25:328][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-17.08.25:345][  0]LogAssetRegistry: Asset discovery search completed in 4.9973 seconds
+[2018.08.13-17.08.25:346][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.13-17.08.25:346][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2018.08.13-17.08.25:348][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.13-17.08.25:357][  0]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-17.08.25:451][  0]LogSlate: Took 0.018459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.13-17.08.30:247][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.08.32:264][787]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.13-17.08.33:191][787]LogAIModule: Creating AISystem for world Drakoragos
+[2018.08.13-17.08.33:199][787]LogAssetEditorManager: Opening Asset editor for World /Game/Game/Levels/Drakoragos.Drakoragos
+[2018.08.13-17.08.33:220][787]Cmd: MAP LOAD FILE="C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.13-17.08.33:220][787]LightingResults: New page: Lighting Build
+[2018.08.13-17.08.33:220][787]LoadErrors: New page: Loading map: Drakoragos.umap
+[2018.08.13-17.08.33:221][787]MapCheck: New page: Map Check
+[2018.08.13-17.08.33:221][787]LightingResults: New page: Lighting Build
+[2018.08.13-17.08.33:795][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.13-17.08.33:841][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.13-17.08.33:877][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.448ms to complete.
+[2018.08.13-17.08.33:877][787]LogFileHelpers: Loading map 'Drakoragos' took 0.657
+[2018.08.13-17.08.37:916][256]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-17.09.36:728][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.09.42:416][351]Cmd: TRANSACTION UNDO
+[2018.08.13-17.09.42:416][351]LogEditorTransaction: Undo Move Actors
+[2018.08.13-17.09.42:586][371]Cmd: TRANSACTION UNDO
+[2018.08.13-17.09.42:586][371]LogEditorTransaction: Undo Create Actors
+[2018.08.13-17.10.29:300][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.10.34:404][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.10.37:730][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.10.40:723][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.11.01:024][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.11.11:222][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.11.15:885][543]LogEditorViewport: Clicking Background
+[2018.08.13-17.11.17:167][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.11.17:232][704]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-17.11.18:593][704]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-17.11.18:736][704]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosB30701AA4F5C5E569E0CB685EA0BF5A2.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-17.11.18:757][704]LogFileHelpers: Saving map 'Drakoragos' took 0.150
+[2018.08.13-17.12.14:258][710]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.12.15:388][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.12.21:176][522]LogEditorViewport: Clicking Background
+[2018.08.13-17.12.21:513][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.21.00:598][248]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.13-17.21.13:427][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-17.23.00:860][621]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/Region1Test.png)
+[2018.08.13-17.23.00:866][621]LogTexture: Display: Building textures: Region1Test (BGRA8, 198X154)
+[2018.08.13-17.23.03:607][933]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/Region1Test.Region1Test
+[2018.08.13-17.23.04:164][933]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.13-17.23.07:603][314]LogSlate: Window 'Region1Test*' being destroyed
+[2018.08.13-17.23.07:607][314]LogSlate: Window 'Region1Test*' being destroyed
+[2018.08.13-17.23.18:110][554]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/Province1.Province1
+[2018.08.13-17.23.18:676][554]LogSlate: Took 0.519521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.13-17.23.18:771][554]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.08.13-17.23.57:981][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.018
+[2018.08.13-17.23.57:982][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Blueprints/CursedMouse/sprites/Region1Test] ([1] browsable assets)...
+[2018.08.13-17.23.57:986][550]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Game/Blueprints/CursedMouse/sprites/Region1Test.Region1Test]
+[2018.08.13-17.23.57:986][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/CursedMouse/sprites/Region1Test]
+[2018.08.13-17.23.57:991][550]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Region1Test_Auto152A18F5A48D3417563F6F59C41A1060E.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Autosaves/Game/Game/Blueprints/CursedMouse/sprites/Region1Test_Auto1.uasset'
+[2018.08.13-17.23.57:992][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Blueprints/CursedMouse/sprites/Province1] ([1] browsable assets)...
+[2018.08.13-17.23.57:998][550]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/Province1.Province1]
+[2018.08.13-17.23.57:998][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/CursedMouse/sprites/Province1]
+[2018.08.13-17.23.58:006][550]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Province1_Auto1C59836064130BC52465A3AB9902C1602.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Autosaves/Game/Game/Blueprints/CursedMouse/sprites/Province1_Auto1.uasset'
+[2018.08.13-17.23.58:006][550]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.08.13-17.24.00:872][892]LogSlate: Took 0.003924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.13-17.24.39:664][509]Cmd: TRANSACTION UNDO
+[2018.08.13-17.24.39:664][509]LogEditorTransaction: Undo Edit Source Texture
+[2018.08.13-17.24.40:314][585]Cmd: TRANSACTION UNDO
+[2018.08.13-17.24.40:314][585]LogEditorTransaction: Undo Clicking Background
+[2018.08.13-17.24.42:261][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.24.42:353][825]LogSlate: Window 'Province1*' being destroyed
+[2018.08.13-17.24.42:356][825]LogSlate: Window 'Province1*' being destroyed
+[2018.08.13-17.24.43:460][952]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/Province1.Province1
+[2018.08.13-17.25.10:169][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.25.14:039][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.25.50:959][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.27.10:027][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-17.27.22:230][102]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Province16F7B693C4EDBE796A8249FA25766FECE.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/Province1.uasset'
+[2018.08.13-17.27.23:370][238]LogSlate: Window 'Province1' being destroyed
+[2018.08.13-17.27.23:373][238]LogSlate: Window 'Province1' being destroyed
+[2018.08.13-17.27.32:966][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.27.36:294][765]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.27.42:059][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.27.53:201][783]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.27.54:873][980]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.27.58:324][390]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.28.04:462][123]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.06:016][306]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.28.07:135][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.28.11:279][934]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.13:443][188]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.14:152][271]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.15:187][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.28.32:344][435]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.34:587][700]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.28.35:574][815]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.39:683][304]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.40:813][435]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.41:362][497]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.28.41:787][547]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.28.58:731][493]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-17.29.04:026][122]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Province1)
+[2018.08.13-17.29.44:677][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-17.29.44:832][155]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/Region1Test.Region1Test
+[2018.08.13-17.29.48:178][541]LogSlate: Window 'Region1Test*' being destroyed
+[2018.08.13-17.29.48:181][541]LogSlate: Window 'Region1Test*' being destroyed
+[2018.08.13-17.29.49:292][669]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/Province1.Province1
+[2018.08.13-17.31.21:913][740]LogSlate: Window 'Province1' being destroyed
+[2018.08.13-17.31.21:917][740]LogSlate: Window 'Province1' being destroyed
+[2018.08.13-17.31.55:092][ 65]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Province1E9FA5987414700E3AC5CB8BF7DE2683D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/Regions/Province1.uasset'
+[2018.08.13-17.31.55:105][ 65]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Region1Test3CF00C7C4111457E173A748CF618496D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/Regions/Region1Test.uasset'
+[2018.08.13-17.33.23:043][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-17.34.10:309][350]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_Auto2602422EB4883096D6505528733D7919E.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Autosaves/Game/Game/Levels/Drakoragos_Auto2.umap'
+[2018.08.13-17.34.10:313][350]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.084
+[2018.08.13-17.34.10:313][350]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2018.08.13-19.48.46:573][813]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-19.48.46:573][813]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-20.34.08:910][593]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.34.10:054][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.34.35:411][302]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/MapaTerrenoR.png)
+[2018.08.13-20.34.35:573][302]LogTexture: Display: Building textures: MapaTerrenoR (AutoDXT, 3000X3000)
+[2018.08.13-20.34.42:700][980]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-20.34.48:684][655]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/BackgroundMap30644C244B7C78C891961ABD692E3701.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/BackgroundMap.uasset'
+[2018.08.13-20.34.49:429][743]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.34.49:433][743]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.34.50:581][876]LogEditorViewport: Clicking Background
+[2018.08.13-20.34.52:229][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.34.52:439][ 86]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosE3C076BF43CEC51D6E58B699B5624E56.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.34.53:698][ 86]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData1935E8A3495C0E0ABB33518D29518B85.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-20.34.54:398][162]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.34.55:880][162]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.34.56:283][162]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoRF9DC918E4E77686B459E738E267BACA8.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.35.47:675][836]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.35.49:134][836]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.35.49:262][836]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosCB84BE97474D6AE9505C27BE5C457DA8.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.35.49:281][836]LogFileHelpers: Saving map 'Drakoragos' took 0.134
+[2018.08.13-20.36.08:773][317]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.36.11:239][317]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.36.11:365][317]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosCF2C51194AECCDB6A509E0820BFB3C96.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.36.11:384][317]LogFileHelpers: Saving map 'Drakoragos' took 0.132
+[2018.08.13-20.36.32:428][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.37.18:554][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.37.35:002][772]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.37.37:072][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.37.44:304][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.37.45:337][  5]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.37.47:171][  5]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.37.47:303][  5]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos3D0B0106427918128868489CCA46D567.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.37.47:321][  5]LogFileHelpers: Saving map 'Drakoragos' took 0.137
+[2018.08.13-20.38.06:665][244]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.38.59:428][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.39.15:062][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.39.20:782][226]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.39.25:458][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.39.33:620][750]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos5CB8462B44E12C1D7851A7AC4926B44E.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.39.34:413][750]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData50C1649D4368FFC670BF099476B90A8F.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-20.39.35:467][862]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.40.00:953][703]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.40.01:961][703]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.40.02:094][703]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosF697566548507700D58CF18919384F44.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.40.02:114][703]LogFileHelpers: Saving map 'Drakoragos' took 0.140
+[2018.08.13-20.40.42:983][162]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.40.43:925][162]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.40.44:051][162]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosC7D10AB84CB4CA12A0D1AA95A613C63D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.40.44:072][162]LogFileHelpers: Saving map 'Drakoragos' took 0.135
+[2018.08.13-20.41.33:338][575]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.41.39:937][341]LogTexture: Display: Building textures: MapaTerrenoR (AutoDXT, 3000X3000)
+[2018.08.13-20.41.59:396][591]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.41.59:401][591]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.42.00:562][724]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.42.02:750][724]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.42.30:860][986]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosE33FBE8E4D06CBDBA4CAFFB8F85AEF14.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.42.31:670][986]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData33154F324DE263FAD89D5FB9B6849100.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-20.42.38:867][839]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.42.41:380][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.42.47:140][826]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.43.01:716][540]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.43.01:720][540]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.43.32:030][838]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.43.47:670][701]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.43.47:674][701]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.43.49:302][891]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-20.44.00:871][260]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.44.00:875][260]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.44.03:597][580]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.44.13:811][772]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.44.13:814][772]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.44.38:570][144]LogEditorViewport: Clicking Background
+[2018.08.13-20.44.42:727][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.45.36:939][501]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.45.54:541][599]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.45.54:545][599]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-20.47.23:053][302]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.47.27:356][792]LogTexture: Display: Building textures: MapaTerrenoR (AutoDXT, 3000X3000)
+[2018.08.13-20.47.31:834][157]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoR0975F98E4955DD6376F53C8C3A3F4087.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.47.32:551][241]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.47.32:554][241]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.47.33:518][352]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.47.41:781][556]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.47.46:449][ 79]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoRCAD343354B107973A8348AA17A4D7CBC.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.49.07:596][705]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.49.07:599][705]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.49.09:472][925]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.49.10:977][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.49.33:186][738]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/Levels/Drakoragos.Drakoragos:PersistentLevel.Drakoragos
+[2018.08.13-20.49.34:381][738]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.08.13-20.49.37:873][ 42]LogSlate: Window 'Drakoragos - Level Blueprint Editor' being destroyed
+[2018.08.13-20.49.37:876][ 42]LogSlate: Window 'Drakoragos - Level Blueprint Editor' being destroyed
+[2018.08.13-20.50.47:438][514]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-20.50.47:521][515]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-20.50.47:521][515]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-20.50.47:521][515]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-20.50.47:521][515]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-20.50.47:521][515]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-20.50.47:521][515]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-20.52.37:012][337]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-20.52.37:016][337]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-20.52.39:056][579]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.53.18:206][747]LogTexture: Display: Building textures: MapaTerrenoR (BGRA8, 3000X3000)
+[2018.08.13-20.53.20:099][934]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoR7F73B38A438F3FD019BBAC88A74A708C.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.53.24:385][444]LogEditorViewport: Clicking Background
+[2018.08.13-20.53.26:676][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.53.31:568][291]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoRC912F1B640E28BE0647622976B055B6D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.53.32:224][369]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.53.32:227][369]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.53.34:688][659]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.53.53:300][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.54.33:204][443]LogTexture: Display: Building textures: MapaTerrenoR (DXT1, 3000X3000)
+[2018.08.13-20.54.45:178][749]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoRD21956E64E529C74EC90B2B5D2397750.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-20.54.46:294][882]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.54.46:297][882]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.54.49:102][213]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-20.55.14:906][199]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.55.14:909][199]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-20.55.29:361][927]LogEditorViewport: Clicking Background
+[2018.08.13-20.55.30:106][ 16]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.55.31:380][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.55.35:332][636]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.55.35:795][691]LogEditorViewport: Clicking Background
+[2018.08.13-20.55.36:418][765]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.55.38:479][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-20.55.43:078][558]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.55.44:194][688]LogEditorViewport: Clicking Background
+[2018.08.13-20.55.45:092][795]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.55.46:326][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-20.55.49:386][305]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.55.49:868][362]LogEditorViewport: Clicking Background
+[2018.08.13-20.55.50:552][443]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.55.51:586][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.55.57:221][238]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.55.57:607][284]LogEditorViewport: Clicking Background
+[2018.08.13-20.56.02:039][812]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.56.03:461][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-20.56.06:510][343]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.56.06:957][396]LogEditorViewport: Clicking Background
+[2018.08.13-20.56.08:371][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.56.08:462][576]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.56.09:395][576]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.56.09:570][576]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos6B6AE8F3451910ADB4C17999DB7AE694.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.56.09:590][576]LogFileHelpers: Saving map 'Drakoragos' took 0.181
+[2018.08.13-20.56.44:978][312]LogEditorViewport: Clicking Background
+[2018.08.13-20.56.46:753][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.56.50:679][992]LogEditorViewport: Clicking Background
+[2018.08.13-20.56.51:718][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.56.51:809][127]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.56.52:609][127]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.56.52:771][127]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos9289192D4CDCCF2410D33EBEA79AEB62.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.56.52:791][127]LogFileHelpers: Saving map 'Drakoragos' took 0.172
+[2018.08.13-20.57.39:040][896]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.13-20.57.42:733][336]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-20.57.55:653][874]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.57.55:658][874]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-20.57.56:779][  4]LogEditorViewport: Clicking Background
+[2018.08.13-20.57.59:463][326]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.58.01:723][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.58.21:348][669]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.58.22:651][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.58.25:161][121]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.58.27:628][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.58.27:769][430]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-20.58.28:769][430]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-20.58.28:937][430]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos08B1A18A4EB4A9D9D6CBFA8E0CA131AF.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-20.58.28:957][430]LogFileHelpers: Saving map 'Drakoragos' took 0.175
+[2018.08.13-20.58.42:554][649]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-20.58.43:555][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-20.58.45:626][  3]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-20.58.48:596][355]LogEditorViewport: Clicking Background
+[2018.08.13-20.59.28:176][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.00.39:333][283]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.00.39:384][284]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.00.39:384][284]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.00.39:384][284]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.00.39:384][284]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.00.39:384][284]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.00.39:384][284]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.01.15:463][607]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.01.15:468][607]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.02.15:299][ 22]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-21.02.48:105][914]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Paper2D/MaskedUnlitSpriteMaterial.MaskedUnlitSpriteMaterial
+[2018.08.13-21.02.49:170][914]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2018.08.13-21.02.53:416][402]LogSlate: Window 'MaskedUnlitSpriteMaterial' being destroyed
+[2018.08.13-21.02.53:419][402]LogSlate: Window 'MaskedUnlitSpriteMaterial' being destroyed
+[2018.08.13-21.02.56:171][720]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-21.03.28:657][871]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-21.03.28:661][871]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-21.04.02:331][452]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/BackgroundMap.BackgroundMap
+[2018.08.13-21.04.11:792][507]Cmd: TRANSACTION UNDO
+[2018.08.13-21.04.11:793][507]LogEditorTransaction: Undo Edit Default Material
+[2018.08.13-21.04.13:096][607]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-21.04.13:099][607]LogSlate: Window 'BackgroundMap' being destroyed
+[2018.08.13-21.04.54:288][948]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-21.05.24:233][477]LogTexture: Display: Building textures: MapaTerrenoR (AutoDXT, 3000X3000)
+[2018.08.13-21.05.28:368][782]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-21.05.28:372][782]LogSlate: Window 'MapaTerrenoR*' being destroyed
+[2018.08.13-21.05.29:544][918]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.05.30:747][918]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.05.30:798][918]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoR322304A8416D04605B24B997EC7BAEA6.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-21.05.30:954][918]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosB5E5FE6A4E68A2BDFEE1C6A81EC41346.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.05.30:974][918]LogFileHelpers: Saving map 'Drakoragos' took 0.173
+[2018.08.13-21.05.42:333][137]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-21.05.45:952][548]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoR1D5139CC46FDEA068F27B380791FCCB8.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-21.05.46:431][605]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-21.05.46:435][605]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-21.05.52:990][371]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/Levels/Drakoragos.Drakoragos:PersistentLevel.Drakoragos
+[2018.08.13-21.05.56:374][752]LogSlate: Window 'Drakoragos* - Level Blueprint Editor' being destroyed
+[2018.08.13-21.05.56:377][752]LogSlate: Window 'Drakoragos* - Level Blueprint Editor' being destroyed
+[2018.08.13-21.06.39:508][805]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.06.39:561][806]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.06.39:561][806]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.06.39:561][806]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.06.39:561][806]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.06.39:561][806]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.06.39:561][806]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.06.56:127][791]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.06.56:131][791]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.07.09:485][390]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.13-21.07.17:979][340]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/GM_Main.GM_Main
+[2018.08.13-21.07.25:116][ 87]LogSlate: Window 'GM_Main' being destroyed
+[2018.08.13-21.07.25:120][ 87]LogSlate: Window 'GM_Main' being destroyed
+[2018.08.13-21.07.38:304][584]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.07.38:354][585]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.07.38:354][585]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.07.38:354][585]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.07.38:354][585]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.07.38:354][585]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.07.38:354][585]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.07.52:198][234]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.07.52:203][234]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.08.45:567][604]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.13-21.08.45:570][604]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.13-21.10.03:862][705]LogEditorViewport: Clicking Background
+[2018.08.13-21.10.06:762][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.08:266][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.26:669][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.32:885][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.35:367][479]LogEditorViewport: Clicking Background
+[2018.08.13-21.10.35:894][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.10.35:969][551]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.10.37:033][551]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.10.37:041][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.37:200][551]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos128467614811A55111F0C89006A4E067.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.10.37:222][551]LogFileHelpers: Saving map 'Drakoragos' took 0.178
+[2018.08.13-21.10.46:884][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.47:401][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.48:025][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.50:133][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.56:228][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.10.56:835][849]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.10.56:884][850]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.10.56:884][850]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.10.56:884][850]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.10.56:884][850]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.10.56:884][850]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.10.56:884][850]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.15.21:474][362]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.15.21:477][362]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.16.01:446][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-21.16.45:529][ 46]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.16.45:591][ 47]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.16.45:591][ 47]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.16.45:591][ 47]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.16.45:591][ 47]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.16.45:591][ 47]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.16.45:591][ 47]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.17.54:778][339]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.17.54:781][339]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.17.55:430][415]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.19.56:457][ 34]Cmd: TRANSACTION UNDO
+[2018.08.13-21.19.56:457][ 34]LogEditorTransaction: Undo Create Actors
+[2018.08.13-21.19.57:437][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.20.14:752][690]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.20.14:808][691]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.20.14:808][691]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.20.14:808][691]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.20.14:808][691]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.20.14:808][691]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.20.14:808][691]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.20.38:168][486]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.20.38:172][486]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.21.10:900][671]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.13-21.21.10:903][671]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.13-21.21.57:706][250]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-21.21.59:103][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.22.03:374][923]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.MapaTerrenoR
+[2018.08.13-21.22.04:953][101]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-21.22.04:956][101]LogSlate: Window 'MapaTerrenoR' being destroyed
+[2018.08.13-21.22.05:553][168]LogEditorViewport: Clicking Background
+[2018.08.13-21.22.07:095][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.22.07:162][360]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.22.08:237][360]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.22.08:405][360]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos4125238045E0EAF4C9F6989A6E1B71A5.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.22.08:426][360]LogFileHelpers: Saving map 'Drakoragos' took 0.179
+[2018.08.13-21.22.38:883][948]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.23.27:469][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.25.04:648][839]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.25.04:710][840]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.25.04:710][840]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.25.04:710][840]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.25.04:710][840]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.25.04:710][840]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.25.04:710][840]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.25.12:248][729]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.25.12:250][729]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.25.30:619][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.26.10:674][525]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.26.10:743][526]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.26.10:743][526]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.26.10:743][526]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.26.10:743][526]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.26.10:743][526]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.26.10:743][526]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.26.34:390][269]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.26.34:394][269]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.26.36:473][443]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.13-21.26.36:544][444]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DominittaAlliance
+[2018.08.13-21.26.36:544][444]LogTemp: CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.26.36:544][444]LogTemp: Initial Dir: E:\Unreal\UE_4.20
+[2018.08.13-21.26.36:544][444]LogTemp: Env CWD: E:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.13-21.26.36:544][444]LogTemp: BranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-07D56CP/E/Unreal/UE_4.20/Engine/Binaries
+[2018.08.13-21.26.36:544][444]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pablo.cabezasg\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.13-21.26.56:180][793]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.26.56:185][793]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.13-21.27.10:289][483]LogEditorViewport: Clicking Background
+[2018.08.13-21.27.10:971][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.27.11:038][572]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.27.12:088][572]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.27.12:262][572]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos658D63994C48B04DC81C90ACA728D97F.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.27.12:283][572]LogFileHelpers: Saving map 'Drakoragos' took 0.182
+[2018.08.13-21.27.46:560][ 25]LogEditorViewport: Clicking Background
+[2018.08.13-21.27.47:433][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.27.47:508][138]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.27.48:394][138]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.27.48:564][138]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosAF48729C4D4C9FD49B8C20952F14900A.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.27.48:586][138]LogFileHelpers: Saving map 'Drakoragos' took 0.181
+[2018.08.13-21.28.47:685][169]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosBD244DC64D0EFE55F586E5B3AEE9EA69.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.28.48:481][169]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltDataAC63FC2C47D9072A33F55FBD4E6EEA5A.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-21.28.48:820][204]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.29.57:085][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.30.32:007][438]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.30.32:967][438]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-21.30.33:138][438]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosE9CABD304BB3831B8F9527BF41115799.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.30.33:162][438]LogFileHelpers: Saving map 'Drakoragos' took 0.183
+[2018.08.13-21.31.37:981][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-21.31.38:189][329]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos704B0FFF457F9BE7D2CFBA859C309392.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.31.38:984][329]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData5778B643401CC0174B3C3D824D0E0654.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-21.31.40:289][478]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-21.32.30:328][804]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos47679D674AEEAE83F90F9C95B12909EA.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-21.32.31:127][804]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData5188A28A450F144862AA31B351003237.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-21.42.43:474][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.025
+[2018.08.13-21.52.54:678][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.022
+[2018.08.13-22.02.57:709][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.021
+[2018.08.13-22.12.59:643][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.020
+[2018.08.13-22.14.54:034][234]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-22.14.55:030][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.14.55:088][355]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.15.04:328][560]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.08.13-22.15.11:100][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.15.36:906][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.15.48:458][816]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos273917A94727203BBECBD783CCC54C5E.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.15.49:288][816]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData2449454A40C809E1160D96B338B7E3F3.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.15.56:997][240]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-22.16.04:845][413]LogSlate: Window 'Message' being destroyed
+[2018.08.13-22.16.04:855][413]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/MapaTerrenoR.png)
+[2018.08.13-22.16.11:063][413]LogSlate: Window 'Message' being destroyed
+[2018.08.13-22.16.11:277][413]LogTexture: Display: Building textures: MapaTerrenoR (AutoDXT, 3000X3000)
+[2018.08.13-22.16.15:276][636]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos4527F03648A7BF9D660BBB879AA71EC1.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.16.16:071][636]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltDataCDD38BA342B9D2C8B0483CA42367CAD1.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.16.16:735][707]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.16.17:935][707]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.16.18:368][707]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/MapaTerrenoR30E4D25A4A0DECBF75C150A37323CCD7.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/MapaTerrenoR.uasset'
+[2018.08.13-22.17.17:442][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.17.17:643][395]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos49FFF7C443072BCC4E33D3AC53051C10.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.17.18:433][395]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltDataD3BB9EDA4DBB91C68D896FBEF6517BC1.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.22.38:028][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/Region1Test.png)
+[2018.08.13-22.22.38:030][ 18]LogTexture: Display: Building textures: Region1Test (BGRA8, 198X154)
+[2018.08.13-22.22.42:750][425]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-22.22.47:072][633]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/RegionUno.png)
+[2018.08.13-22.22.47:076][633]LogTexture: Display: Building textures: RegionUno (BGRA8, 221X251)
+[2018.08.13-22.22.49:184][877]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Game/Blueprints/CursedMouse/sprites/RegionUno.RegionUno
+[2018.08.13-22.22.50:320][  0]LogSlate: Window 'RegionUno*' being destroyed
+[2018.08.13-22.22.50:323][  0]LogSlate: Window 'RegionUno*' being destroyed
+[2018.08.13-22.23.27:776][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.23.36:090][468]LogEditorViewport: Clicking Background
+[2018.08.13-22.23.40:118][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.23.44:610][485]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-22.23.50:928][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.24.09:784][412]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/RegionUno_Thanatia.RegionUno_Thanatia
+[2018.08.13-22.24.35:656][518]LogSlate: Window 'RegionUno_Thanatia*' being destroyed
+[2018.08.13-22.24.35:661][518]LogSlate: Window 'RegionUno_Thanatia*' being destroyed
+[2018.08.13-22.24.42:665][894]LogSlate: Window 'Message' being destroyed
+[2018.08.13-22.24.42:669][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pablo.cabezasg/Documents/RegionUno.png)
+[2018.08.13-22.24.43:463][894]LogSlate: Window 'Message' being destroyed
+[2018.08.13-22.24.43:470][894]LogTexture: Display: Building textures: RegionUno (BGRA8, 221X251)
+[2018.08.13-22.24.45:885][162]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/RegionUno_Thanatia.RegionUno_Thanatia
+[2018.08.13-22.24.49:309][557]LogSlate: Window 'RegionUno_Thanatia*' being destroyed
+[2018.08.13-22.24.49:313][557]LogSlate: Window 'RegionUno_Thanatia*' being destroyed
+[2018.08.13-22.24.52:080][882]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundMap)
+[2018.08.13-22.24.58:726][673]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.25.01:199][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.25.18:008][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.25.23:827][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.25.48:767][654]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.25.50:946][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.25.51:165][921]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos1A998B2E426A30F56F2DA2ACBA29DD87.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.25.51:959][921]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltDataD4E0CF494FFB29FA70F469AF4742054C.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.25.52:212][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.25.52:270][950]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.25.53:704][950]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.25.53:713][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.25.53:740][950]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionUnoECB33D9E4179E724C386D39FC6ED9437.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionUno.uasset'
+[2018.08.13-22.25.53:761][950]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionUno_Thanatia6FC194A9401A534783DEDE87C5C4EFA8.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionUno_Thanatia.uasset'
+[2018.08.13-22.26.18:209][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.26.22:833][718]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.35.40:658][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.35.40:733][810]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.36.22:211][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.023
+[2018.08.13-22.39.55:755][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.39.57:750][ 40]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.39.59:541][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.40.01:246][458]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.40.03:103][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.40.24:820][186]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.13-22.40.32:081][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.41.19:116][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.41.19:288][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.44.07:834][303]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.44.12:832][896]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP3746A473448F9CD731ED878EBAD3279C.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.44.13:099][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.44.13:172][936]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.44.17:916][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.44.20:644][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.44.34:664][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.44.34:894][500]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos41C4EE8C4268F83B8059798987402388.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.44.35:698][500]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltDataE8FC492F473DD0E5FA5197B8BCEA8F9E.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.44.35:914][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.44.35:997][523]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.44.54:136][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.44.59:493][818]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosCB72CF8F40FA2F29279B9087CC74FF1C.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.45.00:284][818]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_BuiltData4DC86E5040B6EBC856664F933DF212CF.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos_BuiltData.uasset'
+[2018.08.13-22.45.00:749][856]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.47.12:070][969]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.47.12:074][969]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.47.22:559][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/PC_Main.PC_Main
+[2018.08.13-22.47.51:321][641]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.47.51:323][641]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.48.04:896][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/PC_Main.PC_Main
+[2018.08.13-22.48.05:082][401]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.13-22.48.05:985][504]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.48.05:987][504]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.48.05:987][504]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.48.05:989][504]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.48.06:961][613]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/Pawn_Main.Pawn_Main
+[2018.08.13-22.48.12:804][272]LogSlate: Window 'Pawn_Main' being destroyed
+[2018.08.13-22.48.12:807][272]LogSlate: Window 'Pawn_Main' being destroyed
+[2018.08.13-22.48.14:139][424]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/PC_Main.PC_Main
+[2018.08.13-22.48.14:335][424]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.13-22.48.15:665][579]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.48.15:667][579]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.48.24:082][511]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.48.24:085][511]LogSlate: Window 'PC_Main*' being destroyed
+[2018.08.13-22.49.16:782][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-22.49.32:292][391]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.49.47:233][141]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.08.13-22.49.47:233][141]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.08.13-22.49.51:283][623]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.49.51:286][623]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.50.23:684][314]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/PC_Main.PC_Main
+[2018.08.13-22.50.23:881][314]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.13-22.50.25:474][499]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.50.25:477][499]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.13-22.50.31:026][161]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/PC_Main446C2E4F4F3668C5AC8FFE979085672C.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/PC_Main.uasset'
+[2018.08.13-22.50.31:341][198]BlueprintLog: New page: Compile PC_Main
+[2018.08.13-22.50.32:215][287]LogSlate: Window 'PC_Main' being destroyed
+[2018.08.13-22.50.32:218][287]LogSlate: Window 'PC_Main' being destroyed
+[2018.08.13-22.50.33:532][438]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.50.35:496][438]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.50.35:670][438]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos840172834AD5D6803498B39A89F33C4A.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.50.35:691][438]LogFileHelpers: Saving map 'Drakoragos' took 0.184
+[2018.08.13-22.50.52:007][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.51.10:635][102]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.51.18:579][638]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.51.23:041][172]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.51.23:590][218]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP45F1619C4C7C75D30968FCA29A2A91E3.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.51.24:209][291]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.51.24:211][291]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.51.25:013][380]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.51.26:214][380]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.51.26:383][380]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosD51BA90D47FE1F24AD3D1BB8EFECE6E4.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.51.26:404][380]LogFileHelpers: Saving map 'Drakoragos' took 0.179
+[2018.08.13-22.51.36:280][586]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.51.39:514][695]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.51.47:514][986]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.52.26:800][538]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP4D79F2EB4F7A72A1AA7828A64B253F66.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.52.27:096][571]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.52.29:297][778]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.52.30:687][778]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.52.30:859][778]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos832F2F024A6A6D44D57304A36C7CCFF2.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.52.30:881][778]LogFileHelpers: Saving map 'Drakoragos' took 0.184
+[2018.08.13-22.53.11:998][106]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.53.13:847][323]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.53.15:860][528]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.53.17:095][528]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.53.17:126][528]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP2CCFD8BA4078017F64DC848CEAFB4DAE.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.53.17:289][528]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosBEC76DC5430BD08156486EB25D255CB7.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.53.17:310][528]LogFileHelpers: Saving map 'Drakoragos' took 0.181
+[2018.08.13-22.53.43:790][563]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.55.39:988][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.55.41:549][232]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP1BCFF4AB4BDFE0554D1FF7ABAEE94B3D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.55.41:839][264]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.55.41:845][264]LogBlueprint: Error: [Compiler RegionBP] This blueprint (self) is not a PaperSpriteComponent, therefore ' Target ' must have a connection.
+[2018.08.13-22.55.42:506][264]LogBlueprint: Warning: [Compiler RegionBP] [0841.59] Compile of RegionBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 667 ms] (/Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP)
+[2018.08.13-22.55.52:625][363]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP22E1709E4732085C64F0248DA9E332C7.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.55.52:970][401]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.55.54:328][514]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.55.54:331][514]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.55.55:289][621]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.55.57:838][621]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.55.58:015][621]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos8A12F27E41601C4D02B039AA7957E26B.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.55.58:037][621]LogFileHelpers: Saving map 'Drakoragos' took 0.185
+[2018.08.13-22.56.08:711][836]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.56.19:018][994]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP7225E19F4CB0E899DBA45DA9E2616F6D.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.56.19:332][ 31]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.56.20:532][128]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.56.20:535][128]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.56.21:880][282]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.56.23:020][282]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.56.23:193][282]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos35FDD5324F756E24DED9748D341AA0B6.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.56.23:214][282]LogFileHelpers: Saving map 'Drakoragos' took 0.182
+[2018.08.13-22.56.41:573][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.56.50:948][901]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.13-22.56.52:585][ 92]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP0788E1754BA68D76BFDA729E714CD691.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-22.56.52:818][119]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-22.56.53:476][178]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.56.53:478][178]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-22.56.54:255][264]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.56.55:075][264]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.56.55:245][264]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos61129B7B48BD9E6C781BD6BB9A3A5C11.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.56.55:267][264]LogFileHelpers: Saving map 'Drakoragos' took 0.181
+[2018.08.13-22.57.20:833][612]LogEditorViewport: Clicking Background
+[2018.08.13-22.57.23:833][971]LogEditorViewport: Clicking on Actor (LMB): RegionBP_C (RegionBP)
+[2018.08.13-22.57.25:176][128]LogEditorViewport: Clicking Background
+[2018.08.13-22.57.27:043][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.57.27:118][360]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.57.47:082][980]LogEditorViewport: Clicking on Actor (LMB): RegionBP_C (RegionBP)
+[2018.08.13-22.57.50:890][434]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.57.54:723][890]LogEditorViewport: Clicking on Actor (LMB): RegionBP_C (RegionBP)
+[2018.08.13-22.57.56:021][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RegionUno_Thanatia)
+[2018.08.13-22.58.02:388][803]LogEditorViewport: Clicking on Actor (LMB): RegionBP_C (RegionBP)
+[2018.08.13-22.58.03:144][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-22.58.15:475][355]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.13-22.58.15:499][355]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.08.13-22.58.17:012][537]LogTemp: Repeating last play command: Standalone Game
+[2018.08.13-22.58.18:014][537]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-22.58.18:188][537]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos7DB3EBFD4E78458C7DFA138C4D47105F.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-22.58.18:210][537]LogFileHelpers: Saving map 'Drakoragos' took 0.180
+[2018.08.13-22.58.34:505][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.58.48:045][689]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Game/Blueprints/CursedMouse/sprites/RegionUno_Thanatia.RegionUno_Thanatia
+[2018.08.13-22.58.49:194][812]LogSlate: Window 'RegionUno_Thanatia' being destroyed
+[2018.08.13-22.58.49:197][812]LogSlate: Window 'RegionUno_Thanatia' being destroyed
+[2018.08.13-22.58.50:112][908]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-22.59.02:316][259]LogSlate: Took 0.588031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.13-23.02.40:255][996]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-23.02.40:872][ 49]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBP88AA629C44D9774D7FBAE5B3E6606C92.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-23.02.41:455][118]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.02.41:459][118]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.02.42:823][275]LogEditorViewport: Clicking Background
+[2018.08.13-23.02.43:716][382]LogEditorViewport: Clicking on Actor (LMB): RegionBP_C (RegionBP)
+[2018.08.13-23.02.44:871][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-23.02.47:173][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-23.02.47:174][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-23.02.51:819][304]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.02.51:823][304]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.02.56:335][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.03.19:622][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.03.19:745][300]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-23.03.59:365][773]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/RegionBPF23D236748F91016ACD379BE5F388019.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Blueprints/CursedMouse/sprites/RegionBP.uasset'
+[2018.08.13-23.03.59:567][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.03.59:667][806]BlueprintLog: New page: Compile RegionBP
+[2018.08.13-23.04.00:408][867]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.04.00:411][867]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.04.02:570][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.04.02:817][146]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Blueprints/CursedMouse/sprites/RegionBP.RegionBP
+[2018.08.13-23.04.13:719][135]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.13-23.04.14:940][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.08.17:514][537]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Drakoragos_Auto3B6C21C164E795688096CB5A29AC40684.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/Autosaves/Game/Game/Levels/Drakoragos_Auto3.umap'
+[2018.08.13-23.08.17:516][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Levels/Drakoragos' took 0.124
+[2018.08.13-23.08.17:517][537]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2018.08.13-23.11.34:423][122]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-23.11.35:755][126]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-23.11.39:899][248]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.11.39:903][248]LogSlate: Window 'RegionBP' being destroyed
+[2018.08.13-23.11.40:828][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-23.11.41:796][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-23.11.41:965][463]LogSavePackage: Moving 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Saved/DrakoragosB66FB63A4C32D0C867204AA85466DDF0.tmp' to 'C:/Users/pablo.cabezasg/Documents/Unreal Projects/Dominitta_Alliance/Content/Game/Levels/Drakoragos.umap'
+[2018.08.13-23.11.41:987][463]LogFileHelpers: Saving map 'Drakoragos' took 0.187
+[2018.08.13-23.11.42:503][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.11.42:657][520]LogSlate: Window 'Dominitta_Alliance - Unreal Editor' being destroyed
+[2018.08.13-23.11.42:658][520]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-23.11.42:933][521]Cmd: QUIT_EDITOR
+[2018.08.13-23.11.42:969][521]LogExit: Preparing to exit.
+[2018.08.13-23.11.44:160][521]LogExit: Editor shut down
+[2018.08.13-23.11.44:160][521]LogExit: Transaction tracking system shut down
+[2018.08.13-23.11.44:809][521]LogExit: Object subsystem successfully closed.
+[2018.08.13-23.11.44:826][521]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.13-23.11.44:832][521]LogD3D11RHI: Shutdown
+[2018.08.13-23.11.44:832][521]LogD3D11RHI: CleanupD3DDevice
+[2018.08.13-23.11.44:846][521]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (616)
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module TextureEditor (612)
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.08.13-23.11.44:855][521]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.08.13-23.11.44:858][521]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.13-23.11.44:859][521]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.13-23.11.44:860][521]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.13-23.11.44:861][521]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.13-23.11.45:839][521]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.13-23.11.45:839][521]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.13-23.11.45:839][521]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.13-23.11.45:840][521]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.13-23.11.45:841][521]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.13-23.11.45:841][521]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.13-23.11.45:842][521]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.13-23.11.45:842][521]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.13-23.11.45:842][521]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.13-23.11.45:842][521]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.13-23.11.45:842][521]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.13-23.11.45:897][521]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.13-23.11.45:908][521]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.13-23.11.45:908][521]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.13-23.11.45:909][521]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.13-23.11.45:910][521]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.13-23.11.45:950][521]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.13-23.11.45:951][521]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.13-23.11.45:954][521]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.13-23.11.45:955][521]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.13-23.11.46:055][521]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.13-23.11.46:156][521]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.13-23.11.46:157][521]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.13-23.11.46:157][521]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.13-23.11.46:157][521]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.13-23.11.46:157][521]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.13-23.11.46:157][521]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.13-23.11.46:159][521]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.13-23.11.46:160][521]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.13-23.11.46:167][521]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.13-23.11.46:167][521]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.13-23.11.46:167][521]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.13-23.11.46:167][521]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.13-23.11.46:168][521]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.13-23.11.46:172][521]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.13-23.11.46:173][521]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.13-23.11.46:219][521]LogDerivedDataCache: Shutdown
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.13-23.11.46:219][521]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.13-23.11.46:220][521]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.13-23.11.46:222][521]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.13-23.11.46:222][521]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.13-23.11.46:224][521]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.13-23.11.46:224][521]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.13-23.11.46:252][521]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.13-23.11.46:253][521]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.13-23.11.46:253][521]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.13-23.11.46:287][521]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.13-23.11.46:287][521]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.13-23.11.46:287][521]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB8E1DD6E-49D3-7D33-E284-F4993A76AD57%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=91a8470849fe2159a14393845fa33fc8%7Cf3d894f644c94c35912bbf925e9243de%7C24776e0d-df40-4ed3-96c1-60297ca6bba7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.13-23.11.46:294][521]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.13-23.11.46:295][521]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.13-23.11.46:295][521]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.13-23.11.46:297][521]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.13-23.11.46:298][521]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.13-23.11.46:298][521]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.13-23.11.46:298][521]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.13-23.11.46:298][521]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.13-23.11.46:308][521]LogExit: Exiting.
+[2018.08.13-23.11.46:326][521]Log file closed, 08/13/18 20:11:46
